@@ -33,7 +33,7 @@ The script needs a data file with the flag -i and a geojson file with the flag -
 python choro.py -i data.csv -j shape.json
 ```
 
-Of course the files need to have a shared key so they can be merged. You need to specify this variable through out the process.
+Of course the files need to have a shared key so they can be merged. You need to specify this variable throughout the process.
 
 ## To Do
 
