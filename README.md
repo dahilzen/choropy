@@ -4,6 +4,8 @@ Choropy is a little python script that helps you to generate GeoJSON for choropl
 
 All you need to do is providing a data csv-file and a GeoJSON-file. The script does nearly all the work for you. Afterwards you probably need to change scaling, some headlines, the clicked-function and some styling.
 
+![example](https://raw.githubusercontent.com/dahilzen/choropy/master/example.png)
+
 ## Requirements
 
 You need to install the following modules:
