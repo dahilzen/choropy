@@ -2,7 +2,7 @@
 
 Choropy is a little python script that helps you generate GeoJSON for choropleth maps with jenks natural breaks. Optionally it saves a HTML-file with a functional choropleth-map written in d3.js. You can choose between a blue, a red and a green color scheme.
 
-All you need to do is provide a data csv-file and a GeoJSON-file. The script does nearly all the work for you. Afterwards you probably need to change scaling, some headlines, the clicked-function and some styling.
+All you need to do is provide a csv-file and a GeoJSON-file. The script does nearly all the work for you. Afterwards you probably need to change scaling, some headlines, the clicked-function and some styling.
 
 ![example](https://raw.githubusercontent.com/dahilzen/choropy/master/example.png)
 
